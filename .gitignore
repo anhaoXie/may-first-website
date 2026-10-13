@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# clean_downloads.py 整理出来的分类文件夹（脚本产物，不该进仓库）
+图片/
+文档/
+视频/
+音乐/
+压缩包/
+程序/
