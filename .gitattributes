@@ -1,0 +1,8 @@
+﻿# tools/clean_downloads.py is a one-off helper that tidied up downloaded assets.
+# It is not part of the project itself, and counting it made GitHub report this
+# repository as "Python" (2488 B) when the project is a single hand-written
+# HTML file (index.html, 2090 B).
+#
+# linguist-detectable=false keeps it out of the language statistics, so the repo
+# is reported as what it actually is: HTML.
+tools/clean_downloads.py linguist-detectable=false
